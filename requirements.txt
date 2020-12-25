@@ -1,0 +1,3 @@
+spacy==2.3.5
+streamlit==0.73.1
+spacy_syllables==1.0.0
